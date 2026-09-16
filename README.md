@@ -1,2 +1,2 @@
 ﻿# creeper_tycoon
-https://ray4ik01.github.io/creeper_tycoon/
+
